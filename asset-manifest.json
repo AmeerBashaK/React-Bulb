@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Bulb/static/css/main.2ca9745a.css",
+    "main.js": "/React-Bulb/static/js/main.eb27ae2f.js",
+    "static/js/453.fddd0239.chunk.js": "/React-Bulb/static/js/453.fddd0239.chunk.js",
+    "index.html": "/React-Bulb/index.html",
+    "main.2ca9745a.css.map": "/React-Bulb/static/css/main.2ca9745a.css.map",
+    "main.eb27ae2f.js.map": "/React-Bulb/static/js/main.eb27ae2f.js.map",
+    "453.fddd0239.chunk.js.map": "/React-Bulb/static/js/453.fddd0239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca9745a.css",
+    "static/js/main.eb27ae2f.js"
+  ]
+}
